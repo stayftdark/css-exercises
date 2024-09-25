@@ -38,3 +38,7 @@ img {
 body{
   text-align: center;
 }
+
+.info {
+  max-width: 200px;
+}
